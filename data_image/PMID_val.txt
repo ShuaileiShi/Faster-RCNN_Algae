@@ -1,0 +1,982 @@
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10000.jpg 444,474,841,883,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10003.jpg 8,610,186,757,13 917,62,1332,511,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10007.jpg 655,337,799,533,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10018.jpg 298,134,389,277,21 897,295,1044,449,0 1195,275,1278,451,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10043.jpg 490,314,1109,824,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10048.jpg 374,269,690,605,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10052.jpg 415,267,672,529,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10059.jpg 448,376,622,553,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1006.jpg 357,67,807,432,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10063.jpg 733,386,868,529,23 1194,130,1282,206,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10064.jpg 735,385,868,530,23 1190,131,1286,207,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10085.jpg 1124,256,1310,491,14 1064,683,1133,885,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10094.jpg 573,25,691,232,21 731,352,1009,509,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10096.jpg 572,29,693,233,21 737,359,1011,509,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10100.jpg 698,64,1174,375,7 711,566,1055,916,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10105.jpg 614,173,810,767,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10120.jpg 382,30,548,214,15 853,518,1264,745,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10121.jpg 84,397,278,755,21 1192,364,1339,609,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1013.jpg 228,518,525,897,19
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10131.jpg 153,209,710,336,7 213,510,802,1024,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10138.jpg 741,91,1084,443,0 129,405,429,692,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10161.jpg 595,442,900,931,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10165.jpg 916,134,1123,342,9 1100,598,1206,709,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1018.jpg 4133,12,5437,3539,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1019.jpg 3356,1754,4498,2689,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10191.jpg 549,403,734,590,9 1018,666,1360,735,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10197.jpg 713,209,880,400,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10199.jpg 710,206,883,401,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10200.jpg 711,207,882,403,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10206.jpg 705,580,836,678,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10211.jpg 608,178,1350,959,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10230.jpg 770,218,809,324,17
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10233.jpg 1025,755,1267,996,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10250.jpg 146,525,346,672,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1026.jpg 3314,1208,4141,2281,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10271.jpg 380,552,1113,722,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10273.jpg 605,218,1043,336,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10289.jpg 17,13,198,190,21 580,717,767,1024,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1029.jpg 2791,1673,4252,2908,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10297.jpg 117,102,542,525,9 1019,423,1180,993,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10300.jpg 120,105,540,524,9 1011,427,1179,987,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10305.jpg 729,276,1036,600,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10308.jpg 731,278,1035,599,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10341.jpg 762,682,1052,964,0 1102,105,1274,249,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10348.jpg 585,76,807,215,14 66,337,775,469,4 239,669,500,916,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10349.jpg 881,196,1049,287,14 199,590,433,828,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10353.jpg 194,6,417,339,21 103,1,260,574,7 974,295,1050,377,21 530,905,750,1024,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10439.jpg 24,1,321,305,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10448.jpg 670,307,1008,466,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10458.jpg 141,192,783,723,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10464.jpg 301,73,687,380,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10467.jpg 499,455,676,733,3 931,481,1031,585,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1047.jpg 2079,2146,3218,3281,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10475.jpg 560,122,1054,770,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10478.jpg 905,72,987,459,3 678,846,802,956,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1048.jpg 344,754,629,1124,14 1512,530,2168,1573,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10485.jpg 841,472,1069,706,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10495.jpg 178,529,438,791,9 479,103,989,600,5 721,157,826,306,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10515.jpg 894,52,1045,161,21 849,372,1055,613,15 531,134,838,353,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10517.jpg 500,384,736,596,0 745,308,1039,601,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10522.jpg 606,337,863,560,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10556.jpg 809,253,1038,495,19
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10559.jpg 457,579,733,893,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10562.jpg 375,360,606,569,13 913,367,951,699,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10580.jpg 253,727,370,925,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10587.jpg 577,470,663,706,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10593.jpg 730,414,1154,951,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10594.jpg 733,412,1154,947,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1060.jpg 814,1060,1661,1336,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10606.jpg 572,407,1021,531,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10611.jpg 433,208,762,829,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10617.jpg 434,56,721,424,6 694,424,1199,1014,4 44,2,152,114,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10628.jpg 681,287,907,520,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1063.jpg 1937,396,3218,3073,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10646.jpg 277,200,1041,811,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10662.jpg 778,457,1056,774,16 405,414,639,647,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10664.jpg 403,408,645,645,7 775,460,1056,773,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10667.jpg 320,578,547,806,9 555,642,956,878,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1067.jpg 637,504,3744,2939,5 4018,1546,4910,2073,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10679.jpg 218,623,321,769,23 570,52,670,634,4 866,728,1016,841,14 746,762,811,909,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10689.jpg 113,1,773,996,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10700.jpg 725,193,831,578,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1071.jpg 2071,1331,2779,1950,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10725.jpg 630,167,816,350,9 803,93,1277,222,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10726.jpg 631,166,816,350,9 802,93,1277,227,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10731.jpg 1000,211,1335,546,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10733.jpg 780,225,953,576,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10735.jpg 779,223,951,577,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1074.jpg 3125,935,4848,2035,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10752.jpg 392,206,562,753,7 787,610,1223,901,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10755.jpg 689,290,1009,619,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10789.jpg 671,178,890,399,9 755,522,858,734,14 599,650,768,875,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10792.jpg 666,175,890,401,9 595,649,770,881,23 755,528,859,728,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10806.jpg 89,93,289,490,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1083.jpg 2806,870,3475,3608,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10843.jpg 945,506,1219,780,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10848.jpg 44,359,262,457,14 744,442,931,636,14 892,760,1039,879,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10855.jpg 880,623,1067,740,23 197,117,453,377,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10863.jpg 750,334,1243,751,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10880.jpg 494,245,1013,584,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10893.jpg 926,355,1180,611,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1090.jpg 979,236,1270,546,21 791,424,1108,892,14 385,484,470,528,17
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10901.jpg 858,187,1101,959,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10907.jpg 904,414,1218,567,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10919.jpg 606,130,828,350,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10922.jpg 677,441,1069,643,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10936.jpg 658,342,983,697,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10951.jpg 991,580,1147,756,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10952.jpg 993,581,1150,760,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1097.jpg 3283,1862,4191,2796,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10972.jpg 918,472,1316,645,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10978.jpg 941,579,1310,908,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/10992.jpg 828,533,973,737,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/11000.jpg 645,84,885,323,9 690,620,1038,843,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/11004.jpg 702,337,921,756,13
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/11013.jpg 707,776,871,941,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/11018.jpg 440,181,667,384,7 595,239,1226,1008,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/11032.jpg 508,160,938,770,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/11035.jpg 558,403,994,837,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/11041.jpg 507,506,969,849,6 794,394,1233,823,7 1003,734,1109,976,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/11054.jpg 690,583,960,807,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1108.jpg 1559,688,1808,1687,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1123.jpg 1039,619,1243,681,17
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1124.jpg 262,467,675,660,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1156.jpg 790,208,1310,726,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1161.jpg 578,211,1061,730,10
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1168.jpg 157,140,714,775,16 77,693,370,766,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1192.jpg 117,10,975,433,7 995,261,1350,492,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1194.jpg 305,164,705,547,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1199.jpg 8,350,819,775,14 711,46,1094,214,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/120.jpg 174,177,897,524,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1218.jpg 110,313,778,413,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1228.jpg 615,393,1111,857,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1239.jpg 468,534,659,861,12 719,96,1130,427,20
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1255.jpg 826,18,1223,178,7 660,79,976,305,7 297,92,563,502,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/128.jpg 324,277,724,687,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/129.jpg 514,77,984,372,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1337.jpg 757,93,1179,515,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1365.jpg 215,110,941,733,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1372.jpg 245,401,1116,733,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1375.jpg 64,292,1270,369,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1378.jpg 132,63,792,523,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1387.jpg 327,229,681,586,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1392.jpg 341,367,668,579,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1401.jpg 446,314,700,571,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1404.jpg 589,349,1222,567,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1405.jpg 796,400,1251,822,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1419.jpg 426,648,876,859,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1428.jpg 583,435,1029,893,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1429.jpg 197,29,1014,799,7 820,109,1122,450,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1436.jpg 430,395,1034,811,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1440.jpg 558,510,933,827,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1453.jpg 525,84,989,574,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1455.jpg 369,639,681,895,7 920,390,1309,855,8
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1465.jpg 78,15,1169,1023,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1474.jpg 677,715,866,842,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1475.jpg 535,614,603,852,21 1215,102,1314,180,21 210,604,272,734,21 931,255,1076,330,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1494.jpg 489,446,866,826,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1504.jpg 94,149,405,713,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1508.jpg 42,333,942,875,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1512.jpg 118,35,831,749,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1514.jpg 48,384,466,813,0 927,518,1267,862,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/152.jpg 774,127,1138,501,9 528,193,1288,838,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1523.jpg 477,416,867,706,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1538.jpg 594,345,963,473,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1553.jpg 306,708,484,863,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1557.jpg 1418,975,3821,3091,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1561.jpg 400,493,889,768,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1567.jpg 245,76,1115,1016,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1581.jpg 210,731,506,986,14 669,143,985,462,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/159.jpg 346,293,745,694,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1600.jpg 764,310,1052,604,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1605.jpg 291,380,668,853,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1629.jpg 210,542,1360,812,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1630.jpg 827,461,1304,945,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1699.jpg 276,28,924,624,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1702.jpg 622,280,772,536,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1708.jpg 1,1,1360,906,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1712.jpg 365,297,826,758,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1724.jpg 555,356,941,736,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1731.jpg 718,1,1360,802,7 1163,733,1211,825,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1742.jpg 730,414,979,575,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1752.jpg 863,288,1246,653,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1757.jpg 419,245,757,663,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1768.jpg 427,566,763,985,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1823.jpg 236,110,902,450,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1825.jpg 49,316,747,872,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1828.jpg 602,345,701,544,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/183.jpg 49,155,1333,531,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/185.jpg 449,242,735,777,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1852.jpg 90,649,885,791,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1887.jpg 866,481,1077,808,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1894.jpg 386,516,943,738,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1904.jpg 1,186,1280,956,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1906.jpg 346,508,865,838,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1908.jpg 572,247,1307,810,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1914.jpg 608,558,844,752,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1915.jpg 599,1,983,974,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1916.jpg 583,497,797,670,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1933.jpg 588,547,829,792,9 849,378,1143,691,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1935.jpg 68,10,1360,585,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1958.jpg 379,647,722,916,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1962.jpg 690,175,841,753,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1974.jpg 829,527,1163,877,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1976.jpg 1076,492,1324,741,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/1990.jpg 293,317,571,689,19
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2033.jpg 562,448,870,886,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2037.jpg 328,1,1240,1014,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2038.jpg 467,418,608,831,7 1021,3,1191,493,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2044.jpg 571,324,983,939,13
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/206.jpg 118,90,1304,580,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/207.jpg 733,11,929,381,23 536,676,646,1024,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2086.jpg 938,45,1207,1024,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2092.jpg 646,673,959,977,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2093.jpg 581,343,1062,814,0 338,591,546,1010,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2099.jpg 709,69,940,505,13
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2105.jpg 118,352,549,938,19
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2107.jpg 452,262,1050,952,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/211.jpg 327,147,399,644,21 398,655,525,757,21 746,827,1271,994,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2114.jpg 622,212,942,460,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2124.jpg 687,272,964,480,23 286,766,507,993,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2126.jpg 217,276,1339,484,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2130.jpg 557,736,800,983,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2132.jpg 131,53,1277,959,5 484,597,800,922,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2141.jpg 417,11,542,900,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2144.jpg 684,21,1008,1024,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/215.jpg 553,142,1133,451,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2153.jpg 786,1,1232,429,0 607,529,846,762,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/216.jpg 294,303,924,760,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2168.jpg 1148,131,1280,639,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2176.jpg 282,13,749,607,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/219.jpg 657,444,934,1018,1 341,585,514,676,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2196.jpg 1136,1,1243,1024,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2216.jpg 463,193,644,699,13
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2221.jpg 672,48,1124,291,13 417,474,935,992,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2228.jpg 1,268,1360,900,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/223.jpg 190,169,890,316,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2236.jpg 955,133,1076,842,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2240.jpg 993,280,1317,699,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2247.jpg 607,1,941,1024,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2248.jpg 442,483,706,887,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2252.jpg 978,399,1243,511,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2253.jpg 1102,410,1298,600,23 830,839,1192,885,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2256.jpg 264,564,633,844,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2257.jpg 740,224,1337,964,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2273.jpg 990,189,1177,493,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2288.jpg 448,157,735,924,13
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2302.jpg 463,432,994,991,10 965,13,1223,552,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2303.jpg 622,9,1220,608,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2322.jpg 885,402,1148,672,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2323.jpg 882,406,1150,670,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2346.jpg 550,169,1089,599,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2349.jpg 959,47,1109,293,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2350.jpg 964,47,1108,291,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2366.jpg 370,82,1360,980,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/237.jpg 144,183,398,952,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2372.jpg 615,182,1277,787,6
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2383.jpg 633,190,800,868,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2384.jpg 632,189,803,866,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2387.jpg 601,581,850,748,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2388.jpg 603,579,848,749,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2402.jpg 174,45,1144,642,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2418.jpg 440,363,1208,910,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/245.jpg 732,511,1051,849,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2454.jpg 840,315,1289,762,6
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/247.jpg 532,417,800,764,12 1096,704,1195,809,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2473.jpg 634,225,943,794,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2477.jpg 600,327,891,1014,13
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2486.jpg 11,123,228,449,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/249.jpg 657,189,1033,476,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2520.jpg 596,55,836,407,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2525.jpg 381,136,741,524,0 1091,48,1314,322,23 1,136,353,359,7 834,591,1082,1024,7 972,27,1360,246,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2527.jpg 379,69,486,989,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2529.jpg 376,69,491,981,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2543.jpg 481,268,819,659,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/255.jpg 422,188,919,693,0 167,21,275,178,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2564.jpg 253,478,710,933,9 67,49,255,174,7 657,13,1325,622,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/259.jpg 225,52,1101,312,7 114,257,382,514,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2598.jpg 531,282,1040,733,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2599.jpg 513,281,1052,760,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2604.jpg 606,101,1021,424,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2606.jpg 453,456,632,722,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2610.jpg 192,76,507,737,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2629.jpg 718,103,1339,835,22 500,105,628,224,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2630.jpg 715,100,1339,837,22 498,110,624,219,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2632.jpg 425,561,991,696,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2635.jpg 368,1,424,1019,4 924,564,1187,777,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2646.jpg 292,64,754,530,9 17,539,226,710,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2651.jpg 671,178,1139,622,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2666.jpg 264,329,1119,755,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2668.jpg 1478,841,3808,2819,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2673.jpg 224,149,697,612,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2681.jpg 611,328,997,712,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/269.jpg 657,525,1103,981,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/274.jpg 422,61,961,318,13 776,422,973,497,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2747.jpg 480,248,668,789,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2758.jpg 690,175,939,776,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2768.jpg 217,73,1184,1008,10
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/277.jpg 460,354,887,784,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/278.jpg 903,525,1324,955,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2786.jpg 708,478,1360,967,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2789.jpg 712,494,1360,962,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2811.jpg 1,1,716,1024,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2815.jpg 646,236,1118,708,9 670,37,808,177,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2817.jpg 655,241,1113,707,9 674,39,806,174,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2823.jpg 824,98,1197,474,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2824.jpg 118,274,1132,826,4 1,326,258,468,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2828.jpg 644,137,1098,894,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/283.jpg 389,249,785,626,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2835.jpg 601,84,765,917,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2844.jpg 774,418,1247,910,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2868.jpg 604,168,941,458,19
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2883.jpg 305,345,648,596,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/290.jpg 232,45,1068,399,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2921.jpg 736,540,931,811,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2922.jpg 733,540,932,809,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2925.jpg 737,539,932,807,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2942.jpg 701,448,912,607,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2961.jpg 654,586,995,819,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2972.jpg 523,40,966,720,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/298.jpg 867,369,1029,707,23 48,366,889,703,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2993.jpg 821,460,1357,750,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/2995.jpg 821,459,1359,749,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3019.jpg 352,37,1266,913,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3023.jpg 640,5,1017,381,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3027.jpg 638,1,1024,393,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3034.jpg 330,393,500,650,23 440,331,651,550,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3045.jpg 550,259,1093,594,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/306.jpg 300,52,928,714,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3062.jpg 637,39,696,237,17 555,285,841,366,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3065.jpg 579,570,911,779,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3077.jpg 261,282,486,447,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3083.jpg 124,22,602,957,20
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3093.jpg 1,78,1360,566,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3095.jpg 154,37,1263,836,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3109.jpg 507,280,1002,607,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3124.jpg 404,1,1222,1024,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3167.jpg 381,1,881,1024,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3186.jpg 37,1,1360,1015,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3192.jpg 53,49,1345,1024,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3209.jpg 400,63,784,918,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3295.jpg 599,1,1022,686,20 684,563,973,978,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3296.jpg 590,1,1016,690,20 690,564,972,977,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3297.jpg 591,1,1017,684,20 681,558,970,974,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3300.jpg 253,152,786,691,3 120,652,336,875,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3316.jpg 355,855,414,953,21 542,36,809,947,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3324.jpg 220,77,701,693,6
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3334.jpg 1829,1985,3198,2308,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3345.jpg 489,248,1037,648,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3362.jpg 147,198,589,472,7 639,219,1319,858,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3373.jpg 561,64,729,231,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/338.jpg 20,236,457,874,3 1160,551,1219,756,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3409.jpg 546,233,1038,725,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3423.jpg 547,570,683,620,17
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/343.jpg 30,188,1281,530,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3436.jpg 552,267,807,527,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3439.jpg 562,233,989,792,6 470,39,916,386,6
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3444.jpg 545,449,1021,611,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3458.jpg 934,192,1343,560,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3461.jpg 529,333,849,708,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3477.jpg 262,1,894,1005,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3482.jpg 715,403,1081,775,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3502.jpg 371,448,790,897,19
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3504.jpg 515,397,590,826,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/351.jpg 187,656,560,1017,0 29,45,329,352,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3511.jpg 581,352,877,823,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3525.jpg 569,112,1020,667,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3527.jpg 283,286,1079,707,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3538.jpg 803,517,1176,744,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3542.jpg 758,541,989,885,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3545.jpg 600,365,1093,675,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3559.jpg 354,316,732,887,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3591.jpg 422,61,680,700,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3596.jpg 467,22,730,1024,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3627.jpg 474,373,878,776,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3656.jpg 699,1,1050,1024,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3701.jpg 229,101,572,452,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3710.jpg 421,375,693,746,22 683,551,929,732,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/372.jpg 828,250,1180,618,15 322,3,680,181,7 187,541,586,945,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3724.jpg 710,295,1000,437,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/373.jpg 473,245,1357,340,4 1053,571,1360,935,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3743.jpg 1117,575,1319,814,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3756.jpg 969,353,1345,726,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3763.jpg 658,223,857,470,17
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/378.jpg 347,308,458,845,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3791.jpg 207,450,1084,624,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3812.jpg 956,565,1274,839,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/382.jpg 234,89,744,854,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3823.jpg 985,117,1170,360,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3850.jpg 794,658,992,889,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3858.jpg 343,548,759,962,9 1150,128,1242,934,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3859.jpg 343,548,757,963,9 1152,132,1242,935,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3864.jpg 866,181,1215,520,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3872.jpg 749,131,1098,574,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3912.jpg 7,723,285,1010,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3918.jpg 889,608,1155,845,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/395.jpg 136,142,570,587,9 594,425,934,771,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3956.jpg 703,190,1087,546,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3961.jpg 492,191,928,658,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3968.jpg 430,59,924,614,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3969.jpg 502,1,1360,1024,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/397.jpg 332,695,522,994,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/398.jpg 720,213,913,406,14 649,425,1151,862,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3980.jpg 218,507,553,866,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/3988.jpg 391,33,1085,1024,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4007.jpg 82,448,909,812,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4012.jpg 207,266,420,601,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/402.jpg 261,231,863,728,6
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4069.jpg 913,40,1347,475,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4088.jpg 595,137,1000,690,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4091.jpg 400,363,659,798,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/411.jpg 770,195,936,577,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4118.jpg 569,449,916,726,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4129.jpg 802,217,1263,673,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4143.jpg 960,169,1207,762,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4157.jpg 615,297,1162,675,21 232,142,361,262,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4163.jpg 807,70,1347,677,6
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4171.jpg 596,610,1007,866,22 242,42,560,487,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4178.jpg 1,31,1360,444,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4180.jpg 211,73,491,947,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4219.jpg 729,435,1063,851,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4223.jpg 336,711,973,889,18 346,251,566,487,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4224.jpg 832,11,1061,1013,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4234.jpg 33,336,730,552,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4236.jpg 39,330,728,552,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4237.jpg 28,332,727,551,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4246.jpg 241,131,1340,801,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4259.jpg 489,179,870,862,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4274.jpg 367,411,1303,596,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4279.jpg 389,130,1239,805,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4293.jpg 285,192,1203,855,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4294.jpg 277,219,1203,869,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4295.jpg 13,286,582,1007,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4304.jpg 724,125,932,418,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4315.jpg 324,449,1135,830,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4341.jpg 380,119,973,807,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4353.jpg 474,94,973,579,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4377.jpg 573,185,949,398,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4388.jpg 876,178,993,599,3 978,119,1178,307,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/439.jpg 559,397,939,777,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4391.jpg 886,180,982,591,3 985,123,1175,308,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4443.jpg 781,492,1189,610,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4470.jpg 707,279,1011,645,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4477.jpg 775,18,906,435,3 419,453,894,883,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4497.jpg 378,200,775,401,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4538.jpg 669,283,868,592,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4541.jpg 655,441,968,860,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4549.jpg 751,339,1296,1001,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4551.jpg 480,594,785,894,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4553.jpg 468,593,787,900,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4565.jpg 409,152,1130,674,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4567.jpg 384,135,1130,668,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4596.jpg 412,260,964,822,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4598.jpg 360,105,917,831,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4604.jpg 536,249,793,595,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4606.jpg 532,242,801,600,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4635.jpg 249,349,1192,739,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4636.jpg 619,389,1190,975,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4645.jpg 736,205,1312,660,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4653.jpg 576,462,1139,998,5 426,12,580,343,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4655.jpg 2,386,343,605,3 452,693,739,1024,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4666.jpg 897,328,1350,934,5 66,115,608,999,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/467.jpg 600,4,1045,659,14 704,522,1200,1024,14 323,830,710,921,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4678.jpg 383,275,957,875,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4679.jpg 373,269,956,872,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4701.jpg 618,450,1224,934,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4707.jpg 520,147,1023,766,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4713.jpg 667,157,1043,830,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4718.jpg 518,240,977,772,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4740.jpg 464,279,931,774,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4745.jpg 595,9,1096,542,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4761.jpg 565,410,1086,815,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4769.jpg 735,150,1296,796,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4795.jpg 135,149,624,669,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4799.jpg 246,264,1096,731,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/48.jpg 126,290,407,593,14 317,710,597,998,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4817.jpg 658,649,1259,933,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/482.jpg 781,307,1256,784,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4824.jpg 648,505,1137,961,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4840.jpg 219,24,785,426,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/486.jpg 398,234,760,430,21 582,217,1301,940,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4861.jpg 389,131,914,660,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4874.jpg 149,529,1222,809,20
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4897.jpg 89,69,1236,863,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/490.jpg 181,327,991,668,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/491.jpg 551,291,750,801,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4914.jpg 561,20,991,925,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4921.jpg 851,278,1172,707,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4930.jpg 430,79,1347,378,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4942.jpg 610,464,1073,645,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4944.jpg 716,135,1086,732,6
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4949.jpg 363,44,707,540,6
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4962.jpg 768,9,1228,849,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4973.jpg 180,457,318,708,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4976.jpg 615,620,944,969,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/498.jpg 269,107,869,434,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4982.jpg 566,240,1030,460,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/4994.jpg 328,293,514,690,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5019.jpg 271,231,1135,849,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5025.jpg 654,214,793,755,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5033.jpg 803,381,1062,827,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/505.jpg 381,143,786,544,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5055.jpg 378,34,1143,614,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/507.jpg 268,317,715,464,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5072.jpg 406,114,947,375,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5073.jpg 447,51,1350,437,4 938,239,1360,579,13
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5108.jpg 2206,322,4241,1673,14 503,1305,1721,3303,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5117.jpg 123,164,414,814,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5123.jpg 950,500,1308,904,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5126.jpg 490,33,1182,744,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5128.jpg 614,290,930,962,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5129.jpg 393,418,989,873,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5138.jpg 711,477,1099,625,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5148.jpg 412,46,792,505,14 935,121,1188,588,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5151.jpg 839,487,1202,790,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5179.jpg 632,189,1121,949,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5193.jpg 102,628,982,819,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5203.jpg 267,71,786,953,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5207.jpg 91,271,784,962,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5241.jpg 752,451,1155,726,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5252.jpg 458,578,855,897,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5253.jpg 982,427,1200,700,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5303.jpg 593,54,769,841,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5309.jpg 278,254,1338,540,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5316.jpg 640,416,1022,792,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5318.jpg 351,509,981,723,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5322.jpg 517,18,1006,887,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5340.jpg 706,527,808,765,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/535.jpg 331,423,972,852,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5357.jpg 236,1,416,1024,4 683,847,1319,1024,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/536.jpg 855,100,1060,630,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5385.jpg 1015,225,1264,472,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5399.jpg 501,564,899,876,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5416.jpg 540,627,785,865,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5419.jpg 885,296,1145,721,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/543.jpg 778,194,812,481,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5438.jpg 779,408,1125,784,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/544.jpg 553,131,1064,375,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5440.jpg 783,434,1139,779,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5477.jpg 327,193,1134,974,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5481.jpg 450,121,950,591,22 979,573,1188,712,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5488.jpg 728,630,976,847,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5497.jpg 844,409,1025,595,22 1027,134,1202,244,11
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5503.jpg 615,150,811,543,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5510.jpg 142,92,455,325,15 79,346,449,555,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5519.jpg 715,328,936,560,9 883,516,1092,665,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5524.jpg 143,446,232,708,3 692,9,1360,479,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5528.jpg 907,713,1128,925,19 389,58,585,182,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5555.jpg 605,404,911,545,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/557.jpg 2675,337,3791,1902,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5575.jpg 732,601,1013,800,7 578,128,805,527,7 1,875,560,978,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/56.jpg 532,3,1256,1023,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5613.jpg 595,442,987,817,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5641.jpg 1184,257,1319,531,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/566.jpg 245,132,717,449,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5663.jpg 714,66,1080,248,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/567.jpg 635,471,830,834,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5681.jpg 899,417,1324,753,22 168,551,460,837,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5686.jpg 59,87,281,312,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5695.jpg 671,572,1002,853,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5719.jpg 537,265,1273,874,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5739.jpg 659,158,830,562,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5755.jpg 1061,23,1284,255,0 922,709,1071,1024,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/576.jpg 785,136,1278,824,1 532,172,827,535,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5772.jpg 738,255,944,401,12 843,476,956,629,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5778.jpg 194,485,490,693,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5797.jpg 1,512,701,840,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5799.jpg 122,810,280,966,9 1020,422,1192,674,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5800.jpg 124,815,275,971,9 1018,432,1194,677,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5822.jpg 461,454,764,736,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5850.jpg 258,654,402,865,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5860.jpg 923,73,1242,382,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5862.jpg 649,119,1287,792,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5907.jpg 540,386,706,547,22 98,770,395,974,7 50,317,277,659,7 1041,1,1249,196,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5920.jpg 158,317,541,422,21 873,761,1127,948,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5921.jpg 166,315,535,419,21 890,759,1111,947,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5946.jpg 848,645,1059,936,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5950.jpg 1114,654,1288,761,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5951.jpg 1108,665,1290,772,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5955.jpg 285,677,1307,876,20
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5960.jpg 855,550,1091,750,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5970.jpg 965,265,1109,400,9 469,652,795,902,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5977.jpg 788,477,942,707,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5987.jpg 1040,358,1272,544,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/5998.jpg 773,425,928,603,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6004.jpg 337,508,635,855,10
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6038.jpg 814,251,1047,793,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6040.jpg 807,248,1044,787,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6050.jpg 996,198,1120,452,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6053.jpg 992,198,1118,445,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6056.jpg 333,429,609,842,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/606.jpg 430,378,545,876,6
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6065.jpg 405,276,669,589,7 711,549,1130,873,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6082.jpg 242,641,376,753,23 320,260,452,473,14 807,140,1035,723,7 1082,586,1328,826,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6088.jpg 27,380,246,550,23 427,392,503,746,21 1122,5,1286,291,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6094.jpg 156,63,326,597,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6101.jpg 706,251,1253,873,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6115.jpg 799,18,1328,587,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/613.jpg 656,1,1274,385,14 798,716,1049,981,14 498,968,780,995,17
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6133.jpg 899,61,1110,185,7 1123,301,1347,522,0 89,919,226,1017,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6144.jpg 65,615,278,815,7 1032,272,1309,569,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6148.jpg 1112,308,1346,920,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6152.jpg 44,633,393,978,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6162.jpg 667,110,863,442,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/617.jpg 699,271,1217,907,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6175.jpg 1096,770,1345,1013,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6186.jpg 623,406,948,687,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6194.jpg 725,86,1278,635,1 512,562,743,844,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6202.jpg 659,499,877,666,23 948,118,1075,248,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6203.jpg 946,129,1078,258,14 655,492,872,667,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6208.jpg 286,181,1156,1017,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6213.jpg 353,10,916,981,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6218.jpg 836,522,983,749,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6220.jpg 839,524,984,743,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6227.jpg 102,96,412,298,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6243.jpg 748,360,947,577,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6251.jpg 287,162,1306,843,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6258.jpg 433,529,677,849,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6281.jpg 556,482,930,789,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6288.jpg 647,184,912,430,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/629.jpg 737,258,1108,501,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6344.jpg 592,58,867,517,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6345.jpg 595,59,864,518,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6348.jpg 1185,265,1282,828,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6352.jpg 695,177,932,547,13
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6353.jpg 680,195,940,556,13
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6354.jpg 762,412,1132,798,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6372.jpg 218,1,953,809,5 387,840,633,1005,22 690,744,918,798,21 1025,103,1081,191,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/638.jpg 35,166,1339,589,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6384.jpg 385,113,606,676,4 403,463,563,947,7 858,535,1009,751,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6399.jpg 653,31,917,268,15 635,325,949,803,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6403.jpg 277,177,920,885,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6405.jpg 273,183,929,889,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6414.jpg 818,506,1078,706,22 427,426,572,569,9 660,724,868,878,21 950,40,1026,134,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6419.jpg 164,615,400,853,7 572,168,1084,407,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6420.jpg 575,165,1082,396,22 157,609,394,853,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6428.jpg 679,757,1307,874,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6444.jpg 163,822,797,991,4 474,339,783,806,4 378,25,986,387,15 973,172,1165,498,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6450.jpg 505,668,687,849,9 1020,289,1263,393,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6451.jpg 1020,296,1252,390,21 498,669,682,851,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6471.jpg 1135,208,1279,356,21 883,1,944,89,21 1,323,212,545,7 912,403,1026,674,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6475.jpg 558,564,884,913,0 590,358,818,583,9 592,8,1233,345,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6489.jpg 629,87,1149,322,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6494.jpg 346,414,972,674,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6509.jpg 765,231,959,499,23 655,639,816,889,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6522.jpg 100,522,195,673,7 287,460,428,677,23 1105,6,1196,297,3 1049,856,1360,1020,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6525.jpg 1100,5,1195,292,3 1045,848,1349,1017,3 281,463,432,680,23 89,499,184,681,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6557.jpg 356,206,749,712,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/657.jpg 716,474,1325,980,6
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6570.jpg 433,211,1173,535,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6590.jpg 558,373,828,723,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6596.jpg 464,217,1293,833,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/660.jpg 577,343,1100,573,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6603.jpg 752,603,974,807,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6604.jpg 753,607,973,807,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6605.jpg 747,596,974,805,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6630.jpg 515,644,980,774,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6653.jpg 932,445,1256,861,6
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6667.jpg 626,669,982,800,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6697.jpg 260,578,369,744,14 961,632,1248,819,13
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/67.jpg 277,50,1081,889,20
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6702.jpg 1000,757,1210,970,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6704.jpg 997,750,1209,965,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6711.jpg 647,312,950,797,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/672.jpg 824,299,1314,486,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/674.jpg 1,298,1167,1024,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6757.jpg 552,8,1208,632,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6776.jpg 126,185,922,962,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6786.jpg 375,92,1197,765,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6797.jpg 674,276,1156,730,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6812.jpg 408,252,618,461,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6823.jpg 418,379,645,612,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6825.jpg 414,379,646,608,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6832.jpg 366,582,684,934,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6842.jpg 316,307,789,623,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6849.jpg 495,341,1167,711,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6867.jpg 489,478,601,544,17
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6872.jpg 507,116,716,349,7 994,80,1134,360,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6878.jpg 305,2,497,240,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6884.jpg 614,314,941,594,6
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6935.jpg 520,141,947,557,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/694.jpg 652,117,767,607,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6967.jpg 652,387,881,880,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/6998.jpg 666,389,990,752,19
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7.jpg 235,55,1021,869,13 922,748,1212,1024,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7000.jpg 863,55,1030,261,15 435,302,1263,1022,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7014.jpg 58,324,425,728,0 352,56,890,249,7 845,572,1249,1012,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7016.jpg 567,115,1167,551,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7018.jpg 565,123,1168,547,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7020.jpg 752,514,1082,729,15 974,280,1181,899,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7034.jpg 769,266,1022,523,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7040.jpg 313,282,560,533,9 879,429,1200,556,20
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7042.jpg 636,414,994,802,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7060.jpg 486,398,1036,651,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7064.jpg 581,233,842,414,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/707.jpg 951,280,1123,751,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/709.jpg 872,83,1079,545,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7092.jpg 635,333,882,565,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7112.jpg 143,262,427,643,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7118.jpg 101,630,392,683,3 282,723,510,860,14 981,518,1109,767,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7130.jpg 737,599,874,800,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7137.jpg 569,418,756,602,9 158,152,213,385,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/714.jpg 623,536,941,902,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7168.jpg 820,142,1340,685,7 609,622,820,816,19
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/718.jpg 20,233,210,634,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7181.jpg 814,419,1242,855,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7182.jpg 815,419,1242,849,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7189.jpg 733,257,1046,583,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7190.jpg 736,257,1039,586,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7205.jpg 1003,300,1337,525,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7227.jpg 182,442,1168,761,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7243.jpg 719,489,947,739,15 1152,435,1253,774,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7264.jpg 359,3,1179,948,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7269.jpg 619,418,1076,825,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7291.jpg 652,489,1129,848,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/73.jpg 740,487,1053,793,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/731.jpg 83,86,1360,1023,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7316.jpg 897,166,1320,275,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7327.jpg 415,102,1144,678,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7328.jpg 670,223,836,374,23 1063,122,1178,302,21 107,395,165,450,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7347.jpg 111,322,342,476,14 101,611,462,918,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7376.jpg 880,464,1180,687,23 40,239,314,513,23 1092,123,1156,271,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7377.jpg 1089,121,1154,272,21 878,462,1181,692,23 40,241,315,513,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7378.jpg 41,236,316,513,23 877,461,1182,691,23 1087,119,1155,273,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/740.jpg 60,1,322,1024,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7407.jpg 272,1,1158,1024,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7411.jpg 700,290,1296,1006,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/742.jpg 149,1,681,1024,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7425.jpg 60,284,283,560,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7430.jpg 178,201,267,464,21 238,429,395,714,21 994,400,1355,711,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7432.jpg 167,138,1227,781,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7446.jpg 440,535,1153,845,13
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7456.jpg 734,1,1140,409,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7480.jpg 328,236,693,608,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7492.jpg 558,1,1177,881,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7495.jpg 916,17,1345,448,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7497.jpg 909,23,1343,459,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7506.jpg 916,316,1287,687,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7509.jpg 1,508,167,596,21 129,656,1283,993,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/753.jpg 1093,421,1554,757,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7543.jpg 443,1,1220,801,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7554.jpg 601,273,1273,930,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7555.jpg 208,339,417,707,21 147,186,610,847,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7565.jpg 640,12,1097,372,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7571.jpg 814,506,1231,923,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7576.jpg 789,29,1200,253,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7589.jpg 483,624,787,835,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7604.jpg 582,408,745,708,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7636.jpg 593,543,963,970,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7652.jpg 577,205,1109,770,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7688.jpg 114,3,830,1024,5 886,381,1336,731,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7713.jpg 634,341,1023,719,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7718.jpg 441,1,1050,1024,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7735.jpg 807,247,1072,547,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7766.jpg 538,33,1334,1024,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7770.jpg 608,346,776,805,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7786.jpg 606,471,1060,868,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7788.jpg 591,82,995,462,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7797.jpg 134,601,528,933,14 760,31,1168,363,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7801.jpg 493,175,1158,500,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7802.jpg 491,174,1156,499,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7803.jpg 443,463,932,833,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7813.jpg 515,88,986,860,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7814.jpg 518,86,989,858,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7822.jpg 422,315,1191,610,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7826.jpg 717,399,976,713,12 446,480,768,811,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7835.jpg 669,256,918,569,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7840.jpg 406,279,1195,929,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7843.jpg 296,424,499,724,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7855.jpg 165,1,1222,681,5 574,306,1005,992,14 510,919,674,1024,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7874.jpg 611,547,944,882,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7888.jpg 559,601,1073,961,13 49,161,147,255,21 476,99,572,203,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/789.jpg 686,711,1766,1068,1 882,1327,1217,1536,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7891.jpg 285,63,1165,583,6
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7894.jpg 295,72,1175,592,6
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7899.jpg 268,1,1229,1024,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/790.jpg 427,357,1800,908,1 298,1162,624,1451,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7909.jpg 491,521,983,763,14 707,189,871,431,14 765,286,976,570,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7926.jpg 743,413,1124,805,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/793.jpg 603,468,1239,1322,7 1481,903,1720,1159,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/794.jpg 749,307,1568,1072,22 713,878,870,1108,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7955.jpg 248,31,1162,372,7 927,128,1191,325,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7961.jpg 65,27,1252,1023,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7992.jpg 677,284,1088,851,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/7997.jpg 395,404,1044,869,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8004.jpg 795,171,1120,501,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8012.jpg 471,215,1095,772,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8017.jpg 794,378,1165,620,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8023.jpg 620,191,1118,681,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8026.jpg 644,398,1138,835,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8037.jpg 580,565,1082,833,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8049.jpg 802,454,1172,806,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8070.jpg 409,396,700,668,19
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8092.jpg 133,36,1360,1024,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8095.jpg 313,373,1347,654,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8114.jpg 1,1,1222,1003,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8117.jpg 5,1,1238,1003,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8118.jpg 474,210,669,483,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8131.jpg 689,304,956,563,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8158.jpg 231,185,677,492,14 650,211,875,470,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8164.jpg 390,13,820,239,14 1030,634,1236,981,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8167.jpg 158,324,553,809,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8188.jpg 527,228,797,420,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8190.jpg 535,231,788,416,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8200.jpg 10,467,1161,959,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8209.jpg 875,90,1097,226,23 596,402,918,712,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8223.jpg 628,575,1038,992,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8236.jpg 240,134,1288,792,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8261.jpg 88,178,245,603,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8269.jpg 284,699,450,915,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8303.jpg 534,422,1163,906,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8310.jpg 613,284,1043,629,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8313.jpg 281,529,584,863,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8336.jpg 276,64,1279,859,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/837.jpg 757,541,1562,1076,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8377.jpg 181,4,1314,986,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8385.jpg 738,210,828,390,17
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8388.jpg 318,190,686,847,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8412.jpg 146,1,1293,1024,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8413.jpg 131,5,1302,1024,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8430.jpg 683,502,1052,847,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8438.jpg 325,208,621,500,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8441.jpg 562,111,946,905,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8454.jpg 691,629,911,851,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8456.jpg 344,227,663,556,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8467.jpg 598,204,865,450,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/847.jpg 24,315,251,663,7 874,65,1254,303,7 1208,354,1471,861,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8471.jpg 409,628,849,984,14 778,1,1081,480,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8477.jpg 644,497,1278,784,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8495.jpg 283,381,476,478,17
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8517.jpg 600,215,1139,765,6
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8531.jpg 101,259,499,665,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8535.jpg 163,234,1042,883,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8536.jpg 153,236,1063,882,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8540.jpg 951,246,1188,572,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8542.jpg 955,258,1190,567,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/855.jpg 735,123,1928,1247,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8558.jpg 7,3,1300,1021,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8559.jpg 377,188,521,651,3 1062,204,1240,372,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8590.jpg 369,8,1330,908,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8594.jpg 427,708,874,931,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8602.jpg 447,563,693,858,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8609.jpg 553,338,929,599,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/861.jpg 555,573,1366,984,13
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8612.jpg 367,365,1333,968,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/863.jpg 800,566,1160,1311,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8630.jpg 47,321,250,748,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8646.jpg 744,388,968,607,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/865.jpg 1636,101,1924,479,14 562,1006,1084,1239,11
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8650.jpg 74,285,932,730,7 644,265,875,478,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8654.jpg 181,39,521,886,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8668.jpg 129,374,1150,753,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8688.jpg 306,289,488,673,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8699.jpg 597,566,1219,797,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/87.jpg 269,80,1205,904,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8701.jpg 581,562,1213,801,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8710.jpg 769,221,1158,886,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8712.jpg 268,91,505,723,14 731,600,897,749,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8735.jpg 801,443,1017,574,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8743.jpg 733,158,1137,558,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8746.jpg 755,173,1137,582,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8753.jpg 888,296,1317,778,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8756.jpg 855,715,1141,934,23 277,3,465,310,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8758.jpg 865,717,1142,927,23 281,23,455,297,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8766.jpg 171,84,994,982,5 997,21,1232,1009,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8769.jpg 728,147,1237,884,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8788.jpg 1027,165,1291,915,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8794.jpg 665,330,847,794,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8801.jpg 52,407,283,852,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8836.jpg 7,1,777,753,7 840,593,1360,1018,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8843.jpg 8,12,787,753,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/885.jpg 1014,703,1474,1177,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8852.jpg 673,478,863,752,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8854.jpg 680,473,864,752,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8884.jpg 964,185,1286,795,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8889.jpg 756,1,987,1024,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8894.jpg 457,178,601,441,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8900.jpg 765,164,919,500,21 1041,459,1267,680,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8901.jpg 768,172,917,490,21 1034,447,1252,692,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/891.jpg 544,730,1133,914,3 751,177,1079,399,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8920.jpg 846,526,1118,935,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8922.jpg 848,518,1118,935,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8926.jpg 410,552,1004,1008,19
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8931.jpg 515,85,1136,686,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8958.jpg 1,49,590,977,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8959.jpg 963,180,1284,600,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8964.jpg 385,442,1024,721,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8971.jpg 646,484,1313,1002,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8974.jpg 643,473,1297,998,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8982.jpg 182,7,1292,1024,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8984.jpg 468,162,850,539,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/899.jpg 1125,81,1524,347,20 920,390,1271,674,19
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/8995.jpg 592,166,765,351,22 464,324,1071,913,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9038.jpg 889,274,1266,458,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9046.jpg 122,238,284,434,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9047.jpg 1,1,996,1009,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9049.jpg 3,1,999,1009,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9077.jpg 700,1,980,757,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/908.jpg 1066,666,1339,993,12
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9082.jpg 304,87,1111,982,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/912.jpg 770,355,1355,1036,6
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9138.jpg 492,90,932,501,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/914.jpg 525,823,973,1028,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9146.jpg 428,12,1237,566,7 187,735,424,999,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9174.jpg 592,264,971,650,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9181.jpg 679,381,965,670,9 1051,27,1360,554,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9186.jpg 517,326,865,677,9 409,757,463,836,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9192.jpg 580,283,731,816,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9204.jpg 774,56,1023,569,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9209.jpg 692,237,802,446,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/921.jpg 486,573,1760,1487,2
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9235.jpg 413,325,931,833,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9264.jpg 122,1,1339,1013,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9272.jpg 685,328,906,647,12 561,182,728,422,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9273.jpg 685,326,906,645,12 565,188,740,425,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9283.jpg 561,193,1017,404,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9298.jpg 291,403,488,646,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9299.jpg 360,539,1124,756,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9310.jpg 97,1,1360,1017,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9315.jpg 450,336,774,662,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9329.jpg 526,392,865,726,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9353.jpg 469,269,1338,884,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9354.jpg 472,272,1341,887,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9356.jpg 826,216,967,434,23
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9395.jpg 578,296,1167,752,19
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9403.jpg 349,245,1315,717,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9414.jpg 413,128,892,548,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9447.jpg 386,19,1196,945,5
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/945.jpg 449,317,1114,644,13 917,927,1217,1322,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9461.jpg 487,5,919,404,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9466.jpg 723,318,1109,601,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9498.jpg 431,263,906,513,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9503.jpg 141,349,868,705,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9509.jpg 126,305,338,648,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9528.jpg 399,434,908,681,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/954.jpg 555,703,1478,1200,1 1376,1065,1690,1244,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9543.jpg 671,177,985,741,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9545.jpg 671,173,985,737,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9547.jpg 63,31,533,513,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9552.jpg 153,453,364,837,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9555.jpg 251,364,590,803,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9558.jpg 253,365,592,804,15
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9565.jpg 805,515,1072,788,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9594.jpg 655,554,1069,948,22
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9595.jpg 372,56,1204,1011,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9623.jpg 694,695,1044,852,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9636.jpg 599,291,1108,785,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9641.jpg 618,464,940,875,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9642.jpg 621,466,943,877,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9659.jpg 640,42,1310,803,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9710.jpg 645,328,970,788,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9718.jpg 544,141,1057,927,4
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9736.jpg 697,73,885,834,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9738.jpg 700,76,888,837,3
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9739.jpg 871,367,1163,655,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9747.jpg 397,463,1058,813,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9748.jpg 395,466,1056,816,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9774.jpg 477,330,932,777,19
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9810.jpg 590,408,1026,817,0
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9815.jpg 797,155,1026,750,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9820.jpg 705,466,1058,818,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9824.jpg 182,340,610,799,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9826.jpg 483,483,914,987,6
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9844.jpg 596,66,988,862,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9846.jpg 570,553,931,961,21 61,81,222,313,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9848.jpg 569,552,930,960,21 61,81,221,317,14
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9856.jpg 849,187,1107,973,18
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9857.jpg 474,1,973,1024,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9858.jpg 465,1,964,1024,1
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9873.jpg 688,411,1065,877,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9888.jpg 712,87,1031,484,21 1209,1,1285,161,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9905.jpg 291,138,668,475,15 1088,561,1180,713,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9938.jpg 402,653,539,869,23 568,213,808,372,7 818,480,918,611,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9949.jpg 1,111,705,707,15 961,203,1351,566,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9955.jpg 170,300,736,818,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9956.jpg 167,294,733,812,16
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9960.jpg 660,164,1210,504,22 886,69,1079,269,7 1235,16,1360,110,7 1210,685,1360,780,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9966.jpg 1016,591,1154,819,12 1104,16,1321,405,7
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9970.jpg 821,283,1092,464,21
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9981.jpg 565,280,813,531,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9983.jpg 562,279,810,530,9
+C:\Users\86137\Desktop\基于图像识别的淡水浮游生物监测技术开发\code_reference\faster-rcnn-bubbliiiing\VOCdevkit\PMID_2019/JPEGImages/9992.jpg 697,191,773,886,4 805,391,857,564,21
