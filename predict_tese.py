@@ -2,20 +2,18 @@ import os
 import time
 import cv2
 import numpy as np
-import pandas as pd
 from tqdm import tqdm
 from PIL import Image
-from frcnn import FRCNN
+from frcnn import frcnn
 
 if __name__ == "__main__":
-    frcnn = FRCNN()
+    frcnn = frcnn()
     # mode用于指定测试的模式：
     # 'predict'      表示单张图片预测，如果想对预测过程进行修改，如保存图片，截取对象等，可以先看下方详细的注释
     # 'video'        表示视频预测，可调用摄像头或者视频进行预测，详情查看对应参数及注释。
     # 'fps'          表示测试fps，使用的图片是img里面的street.jpg，详情查看对应参数及注释。
     # 'dir_predict'  表示遍历文件夹进行预测并保存。默认遍历img文件夹，保存img_out文件夹，详情查看对应参数及注释。
-    # 'statistic'    表示遍历文件夹进行预测并保存。在dir_save_path中生成一个统计生物多样性的Excel表格。
-    mode = "dir_predict"
+    mode = "predict"
 
     
     if mode == "predict":
@@ -76,6 +74,7 @@ if __name__ == "__main__":
         tact_time = frcnn.get_FPS(img, test_interval)
         print(str(tact_time) + ' seconds, ' + str(1/tact_time) + 'FPS, @batch_size 1')
 
+
     elif mode == "dir_predict":
         dir_origin_path = "c:/Users/86137/Desktop/111"  #指定需要预测的图片文件夹路径
         dir_save_path   = "c:/Users/86137/Desktop/222"  #指定预测后图片的保存路径
@@ -89,41 +88,6 @@ if __name__ == "__main__":
                 if not os.path.exists(dir_save_path):
                     os.makedirs(dir_save_path)
                 r_image.save(os.path.join(dir_save_path, img_name.replace(".jpg", ".png")), quality=95, subsampling=0)
-
-    elif mode == "statistic":
-        count = True
-        dir_origin_path = "D:/PMID2019/dir_origin_path"  #指定需要预测的图片文件夹路径
-        dir_save_path   = "D:/PMID2019/dir_save_path"  #指定预测后图片的保存路径
-
-        dir_classes_nums = frcnn.statistic(dir_origin_path, dir_save_path)
-
-        # 计算百分比
-        Total = sum(dir_classes_nums)
-        dir_classes_percentage = np.around(dir_classes_nums/Total, 4)
-
-        condition = dir_classes_percentage > 0
-        dir_classes_percentage_Nzero = np.extract(condition, dir_classes_percentage)
-
-        # 计算物种丰富度（S）
-        S = len(dir_classes_percentage_Nzero)
-        print("物种丰富度S =", S)
-
-        # 计算香农-威纳指数（H）
-        H = -1*sum(dir_classes_percentage_Nzero * np.log(dir_classes_percentage_Nzero))
-        print("香农-威纳指数H =", round(H,3))
-
-        # 计算辛普森多样性指数（1-D）
-        D = 1 - sum(np.power(dir_classes_percentage_Nzero,2))
-        print("辛普森多样性指数D =", round(D,3))
-
-        # 计算物种均匀度
-        J = H/np.log(S)
-        print("物种均匀度J =", round(J,3))
-
-        stat_dict = {'Names':frcnn.class_names, 'Count':list(dir_classes_nums), 'Percentage':list(dir_classes_percentage*100)}
-        df = pd.DataFrame(stat_dict)
-        print(df)
-        df.to_excel('D:/PMID2019/dir_save_path/output.xlsx')
-
+    
     else:
-        raise AssertionError("请指定正确的模式: 'predict', 'video', 'fps', 'dir_predict' or 'statistic'.")
+        raise AssertionError("请指定正确的模式: 'predict', 'video', 'fps' or 'dir_predict'.")

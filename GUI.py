@@ -2,6 +2,8 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 from PIL import Image, ImageTk
 import os
+import numpy as np
+import pandas as pd
 from tqdm import tqdm
 from frcnn import FRCNN
 
@@ -80,11 +82,45 @@ def run_folder_predict():
             processed_image.save(os.path.join(folder_path, img_name.replace(".jpg", ".png")), quality=95, subsampling=0)
     print("预测完成！")
 
+def run_statistic():
+        frcnn = FRCNN()
+        count = True
+        dir_origin_path = select_folder()  # 选择预测图片文件夹
+        dir_save_path = select_folder()  # 选择存放文件夹，用于存放预测后的图片及生物多样性统计结果Excel
+        #dir_save_path = os.path.join(dir_origin_path, 'statistic')  # 在dir_origin_path文件夹中生成新文件夹存放预测后的图片及生物多样性统计结果Excel
+        dir_classes_nums = frcnn.statistic(dir_origin_path, dir_save_path)
+        # 计算百分比
+        Total = sum(dir_classes_nums)
+        dir_classes_percentage = np.around(dir_classes_nums/Total, 4)
+        condition = dir_classes_percentage > 0
+        dir_classes_percentage_Nzero = np.extract(condition, dir_classes_percentage)
+
+        # 计算物种丰富度（S）
+        S = len(dir_classes_percentage_Nzero)
+        print("物种丰富度S =", S)
+        # 计算香农-威纳指数（H）
+        H = -1*sum(dir_classes_percentage_Nzero * np.log(dir_classes_percentage_Nzero))
+        print("香农-威纳指数H =", round(H,3))
+        # 计算辛普森多样性指数（1-D）
+        D = 1 - sum(np.power(dir_classes_percentage_Nzero,2))
+        print("辛普森多样性指数D =", round(D,3))
+        # 计算物种均匀度
+        J = H/np.log(S)
+        print("物种均匀度J =", round(J,3))
+
+        stat_dict = {'Names':frcnn.class_names, 'Count':list(dir_classes_nums), 'Percentage':list(dir_classes_percentage*100)}
+        df = pd.DataFrame(stat_dict)
+        print(df)
+        df.to_excel('D:/PMID2019/dir_save_path/output.xlsx')
+
 # 按钮1：运行单张图片的目标检测
 run_predict_button = tk.Button(root, text="预测单张图片，请选择图片", command=run_image_predict, font=("Arial", 12))
 run_predict_button.pack(pady=10)
 # 按钮2：运行多张图片的目标检测
 run_folder_predict_button = tk.Button(root, text="预测多张图片，请选择图片文件夹", command=run_folder_predict, font=("Arial", 12))
+run_folder_predict_button.pack(pady=10)
+# 按钮3：运行多张图片的生物多样性统计分析
+run_folder_predict_button = tk.Button(root, text="进行生物多样性统计分析，请先后选择图片文件夹和存放预测结果文件夹", command=run_statistic, font=("Arial", 12))
 run_folder_predict_button.pack(pady=10)
 
 # 运行主循环
