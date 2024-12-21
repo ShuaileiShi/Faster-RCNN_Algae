@@ -9,24 +9,24 @@ from utils.utils import get_classes
 
 # annotation_mode用于指定该文件运行时计算的内容
 # annotation_mode为0代表整个标签处理过程
-# annotation_mode为1代表获得VOCdevkit/XXXX/ImageSets里面的txt
+# annotation_mode为1代表获得VOCdevkit/XXXX/Sets里面的txt
 # annotation_mode为2代表获得训练用的data_image中的_train.txt、_val.txt
-annotation_mode     = 0
+annotation_mode = 0
 
 # 必须要修改，用于生成_train.txt、_val.txt的目标信息，与训练和预测所用的classes_path一致
 # 仅在annotation_mode为0和2的时候有效
-classes_path        = 'data_model/PMID2019.txt'
+classes_path = 'data_model/Algae2024.txt'
 
 # trainval_percent用于指定(训练集+验证集)与测试集的比例
 # train_percent用于指定(训练集+验证集)中训练集与验证集的比例
 # 仅在annotation_mode为0和1的时候有效
-trainval_percent    = 0.9
-train_percent       = 0.9
+trainval_percent = 0.9
+train_percent    = 0.9
 
 # 指向VOC数据集所在的文件夹
-VOCdevkit_path  = 'VOCdevkit/PMID_2019'  # 使用不同VOC数据集请修改此处路径
-VOCdevkit_sets  = [('PMID', 'train'), ('PMID', 'val')]  # 使用不同VOC数据集请修改此处编号
-classes, _      = get_classes(classes_path)
+VOCdevkit_path = 'VOCdevkit/Algae2024'  # 使用不同VOC数据集请修改此处路径
+VOCdevkit_sets = [('Algae2024', 'train'), ('Algae2024', 'val')]  # 使用不同VOC数据集请修改此处编号
+classes, _     = get_classes(classes_path)
 
 
 photo_nums  = np.zeros(len(VOCdevkit_sets))
@@ -58,7 +58,7 @@ if __name__ == "__main__":
 
     if annotation_mode == 0 or annotation_mode == 1:
         xmlfilepath     = os.path.join(VOCdevkit_path, 'Annotations')
-        saveBasePath    = os.path.join(VOCdevkit_path, 'ImageSets/Main')
+        saveBasePath    = os.path.join(VOCdevkit_path, 'Sets/Main')
         temp_xml        = os.listdir(xmlfilepath)
         total_xml       = []
         for xml in temp_xml:
@@ -95,15 +95,15 @@ if __name__ == "__main__":
         ftrain.close()  
         fval.close()  
         ftest.close()
-        print("已在ImageSets生成trainval.txt")
+        print("已在Sets生成trainval.txt")
 
     if annotation_mode == 0 or annotation_mode == 2:
         type_index = 0
         for ref, image_set in VOCdevkit_sets:
-            image_ids = open(os.path.join(VOCdevkit_path, 'ImageSets/Main/%s.txt'%(image_set)), encoding='utf-8').read().strip().split()
+            image_ids = open(os.path.join(VOCdevkit_path, 'Sets/Main/%s.txt'%(image_set)), encoding='utf-8').read().strip().split()
             list_file = open('%s_%s.txt'%(ref, image_set), 'w', encoding='utf-8')
             for image_id in image_ids:
-                list_file.write('%s/JPEGImages/%s.jpg'%(os.path.abspath(VOCdevkit_path), image_id))
+                list_file.write('%s/Images/%s.jpg'%(os.path.abspath(VOCdevkit_path), image_id))
 
                 convert_annotation(ref, image_id, list_file)
                 list_file.write('\n')

@@ -4,7 +4,7 @@ from PIL import Image
 from tqdm import tqdm
 from utils.utils import get_classes
 from utils.utils_map import get_map
-from frcnn import frcnn
+from frcnn import FRCNN
 
 if __name__ == "__main__":
     # map_mode用于指定该文件运行时计算的内容：
@@ -12,10 +12,10 @@ if __name__ == "__main__":
     # map_mode为1代表仅获得预测结果。
     # map_mode为2代表仅获得真实框。
     # map_mode为3代表仅计算VOC_map。
-    map_mode = 0
+    map_mode = 3
 
-    classes_path = 'data_model/PMID2019.txt'  #用于指定需要测量VOC_map的类别，一般情况下与训练和预测所用的classes_path一致即可
-    VOCdevkit_path = 'VOCdevkit/PMID_2019'  #用于指定VOC数据集所在的文件夹
+    classes_path = 'data_model/Algae2024.txt'  #用于指定需要测量VOC_map的类别，一般情况下与训练和预测所用的classes_path一致即可
+    VOCdevkit_path = 'VOCdevkit/Algae2024'  #用于指定VOC数据集所在的文件夹
     map_out_path = 'map'  #用于指定结果输出的文件夹
 
     map_vis = False  #用于指定是否开启VOC_map计算的可视化
@@ -35,7 +35,7 @@ if __name__ == "__main__":
     # 这里专门定义一个score_threhold用于代表门限值，进而在计算mAP时找到门限值对应的Recall和Precision值
     score_threhold  = 0.5
 
-    image_ids = open(os.path.join(VOCdevkit_path, "ImageSets/Main/test.txt")).read().strip().split()
+    image_ids = open(os.path.join(VOCdevkit_path, "Sets/Main/test.txt")).read().strip().split()
 
     if not os.path.exists(map_out_path):
         os.makedirs(map_out_path)
@@ -50,12 +50,12 @@ if __name__ == "__main__":
 
     if map_mode == 0 or map_mode == 1:
         print("Load model.")
-        frcnn = frcnn(confidence = confidence, nms_iou = nms_iou)
+        frcnn = FRCNN(confidence = confidence, nms_iou = nms_iou)
         print("Load model done.")
 
         print("Get predict result.")
         for image_id in tqdm(image_ids):
-            image_path  = os.path.join(VOCdevkit_path, "JPEGImages/"+image_id+".jpg")
+            image_path  = os.path.join(VOCdevkit_path, "Images/"+image_id+".jpg")
             image       = Image.open(image_path)
             if map_vis:
                 image.save(os.path.join(map_out_path, "images-optional/" + image_id + ".jpg"))

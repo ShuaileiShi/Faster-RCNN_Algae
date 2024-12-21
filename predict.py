@@ -15,8 +15,7 @@ if __name__ == "__main__":
     # 'fps'          表示测试fps，使用的图片是img里面的street.jpg，详情查看对应参数及注释。
     # 'dir_predict'  表示遍历文件夹进行预测并保存。默认遍历img文件夹，保存img_out文件夹，详情查看对应参数及注释。
     # 'statistic'    表示遍历文件夹进行预测并保存。在dir_save_path中生成一个统计生物多样性的Excel表格。
-    mode = "dir_predict"
-
+    mode = "predict"
     
     if mode == "predict":
         crop  = False  #指定是否在单张图片预测后对目标进行截取

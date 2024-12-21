@@ -20,47 +20,40 @@ if __name__ == "__main__":
     # 继续训练 ———— model_path = 'logs文件夹下相应权值文件路径'; 修改下方的 冻结阶段 或者 解冻阶段 的参数，来保证模型epoch的连续性
     # 主干训练 ———— model_path = ''; 下方的 pretrain = True
     # 从零训练 ———— model_path = ''; 下方的pretrain = Fasle，Freeze_Train = Fasle
-    model_path      = 'logs\ep005-loss0.859-val_loss0.621.pth'
+    model_path      = 'logs\last_epoch_weights.pth'
 
-    classes_path    = 'data_model/PMID2019.txt'  #指向data_model下的分类目标txt
-    train_annotation_path   = 'data_image/PMID_train.txt'  #指向image_data下的由annotation生成的文件训练txt
-    val_annotation_path     = 'data_image/PMID_val.txt'  #指向image_data下的由annotation生成的文件检测txt
+    classes_path    = 'data_model/Algae2024.txt'  #指向data_model下的分类目标txt
+    train_annotation_path   = 'data_image/Algae2024_train.txt'  #指向image_data下的由annotation生成的文件训练txt
+    val_annotation_path     = 'data_image/Algae2024_val.txt'  #指向image_data下的由annotation生成的文件检测txt
     backbone        = "resnet50"  #主干特征提取网络
 
-    Cuda            = True  #是否使用Cuda
-    seed            = 11  #用于固定随机种子，使得每次独立训练都可以获得一样的结果
-    train_gpu       = [0,]  #训练用到的GPU，默认为第一张卡、双卡为[0, 1]、三卡为[0, 1, 2];在使用多GPU时，每个卡上的batch为总batch除以卡的数量
-    fp16            = True  #是否使用混合精度训练
-    input_shape     = [600, 600]  #输入的shape大小
-    anchors_size    = [4, 16, 32]  #用于设定先验框的大小，每个数对应3个先验框。详见anchors.py
+    Cuda         = True  #是否使用Cuda
+    seed         = 11  #用于固定随机种子，使得每次独立训练都可以获得一样的结果
+    train_gpu    = [0,]  #训练用到的GPU，默认为第一张卡、双卡为[0, 1]、三卡为[0, 1, 2];在使用多GPU时，每个卡上的batch为总batch除以卡的数量
+    fp16         = True  #是否使用混合精度训练
+    input_shape  = [600, 600]  #输入的shape大小
+    anchors_size = [4, 16, 32]  #用于设定先验框的大小，每个数对应3个先验框。详见anchors.py
 
-    #----------------------------------------------------------------------------------------------------------------------------#
-    # 是否使用主干网络的预训练权重，此处使用的是主干的权重，因此是在模型构建的时候进行加载的。
+    #训练模式参数
+    pretrained   = False  # 是否使用主干网络的预训练权重，此处使用的是主干的权重，因此是在模型构建的时候进行加载的。
+    Freeze_Train = True   # 是否进行冻结训练，默认先冻结训练后解冻训练。如果设置Freeze_Train=False，建议使用优化器为sgd
     # 如果设置了model_path，则主干的权值无需加载，pretrained的值无意义。
     # 如果不设置model_path，pretrained = True，此时仅加载主干开始训练。
     # 如果不设置model_path，pretrained = False，Freeze_Train = Fasle，此时从零训练，且没有冻结主干的过程。
-    #----------------------------------------------------------------------------------------------------------------------------#
-    pretrained      = False
-    #----------------------------------------------------------------------------------------------------------------------------#
-    # Freeze_Train  是否进行冻结训练，默认先冻结训练后解冻训练。如果设置Freeze_Train=False，建议使用优化器为sgd
-    #----------------------------------------------------------------------------------------------------------------------------#
-    Freeze_Train        = True
-    #----------------------------------------------------------------------------------------------------------------------------#
+
     # 冻结阶段训练参数
     # Init_Epoch         模型当前开始的训练世代，其值可以大于Freeze_Epoch，如此则会跳过冻结阶段，直接从设置的世代开始，并调整对应的学习率。
     # Freeze_Epoch       模型冻结训练的Freeze_Epoch
     # Freeze_batch_size  模型冻结训练的batch_size
-    #----------------------------------------------------------------------------------------------------------------------------#
-    Init_Epoch          = 5  # 继续训练时可使用
-    Freeze_Epoch        = 5  # 根据需求改
-    Freeze_batch_size   = 4
-    #----------------------------------------------------------------------------------------------------------------------------#
+    Init_Epoch          = 99  # 继续训练时可使用
+    Freeze_Epoch        = 50  # 根据需求改
+    Freeze_batch_size   = 8
+
     # 解冻阶段训练参数
     # UnFreeze_Epoch       模型总共训练的世代。SGD推荐设置较大的UnFreeze_Epoch，Adam可以设置较小的UnFreeze_Epoch
     # Unfreeze_batch_size  模型在解冻后的batch_size
-    #----------------------------------------------------------------------------------------------------------------------------#
-    UnFreeze_Epoch      = 10  # 根据需求改
-    Unfreeze_batch_size = 2
+    UnFreeze_Epoch      = 100  # 根据需求改
+    Unfreeze_batch_size = 4
     
 
     optimizer_type = "adam"  #使用到的优化器种类，可选的有adam、sgd
@@ -262,8 +255,8 @@ if __name__ == "__main__":
 '''
 '''
 训练分为两个阶段，分别是冻结阶段和解冻阶段：
-冻结阶段：backbone被冻结，不发生改变；此时主要训练RPN网络和ROI网络。占用的显存较小
-解冻阶段：backbone被解冻，网络所有参数都会发生改变。占用的显存较大
+冻结阶段：backbone被冻结，不发生改变;此时主要训练RPN网络和ROI网络。占用的显存较小。
+解冻阶段：backbone被解冻，网络所有参数都会发生改变。占用的显存较大。
 若干参数设置建议：
 （一）从整个模型的预训练权重开始训练： 
     Adam：

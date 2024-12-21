@@ -20,8 +20,8 @@ class FRCNN(object):
         # 训练好后logs文件夹下存在多个权值文件，选择验证集损失较低的即可。
         # 验证集损失较低不代表mAP较高，仅代表该权值在验证集上泛化性能较好。
         # 如果出现shape不匹配，同时要注意训练时的model_path和classes_path参数的修改
-        "model_path"    : 'logs/ep010-loss0.633-val_loss0.435.pth',  #指向logs文件夹下的训练权值文件
-        "classes_path"  : 'data_model/PMID2019.txt',  #指向data_model下的类别txt
+        "model_path"    : 'logs\ep100-loss0.261-val_loss0.300.pth',  #指向logs文件夹下的训练权值文件
+        "classes_path"  : 'data_model/Algae2024.txt',  #指向data_model下的类别txt
         "backbone" : "resnet50",  #主干特征提取网络
         "confidence" : 0.5,  #预测框信度
         "nms_iou" : 0.3,  #非极大抑制所用的交并比
