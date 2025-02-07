@@ -76,8 +76,8 @@ if __name__ == "__main__":
         print(str(tact_time) + ' seconds, ' + str(1/tact_time) + 'FPS, @batch_size 1')
 
     elif mode == "dir_predict":
-        dir_origin_path = "c:/Users/86137/Desktop/111"  #指定需要预测的图片文件夹路径
-        dir_save_path   = "c:/Users/86137/Desktop/222"  #指定预测后图片的保存路径
+        dir_origin_path = ""  #指定需要预测的图片文件夹路径
+        dir_save_path   = ""  #指定预测后图片的保存路径
 
         img_names = os.listdir(dir_origin_path)
         for img_name in tqdm(img_names):
@@ -91,10 +91,10 @@ if __name__ == "__main__":
 
     elif mode == "statistic":
         count = True
-        dir_origin_path = "D:/PMID2019/dir_origin_path"  #指定需要预测的图片文件夹路径
-        dir_save_path   = "D:/PMID2019/dir_save_path"  #指定预测后图片的保存路径
+        dir_origin_path = ""  #指定需要预测的图片文件夹路径
+        dir_save_path   = ""  #指定预测后图片的保存路径
 
-        dir_classes_nums = frcnn.statistic(dir_origin_path, dir_save_path)
+        dir_classes_nums = frcnn.statistic(dir_origin_path)
 
         # 计算百分比
         Total = sum(dir_classes_nums)
@@ -103,9 +103,9 @@ if __name__ == "__main__":
         condition = dir_classes_percentage > 0
         dir_classes_percentage_Nzero = np.extract(condition, dir_classes_percentage)
 
-        # 计算物种丰富度（S）
+        # 计算物种丰度（S）
         S = len(dir_classes_percentage_Nzero)
-        print("物种丰富度S =", S)
+        print("物种丰度S =", S)
 
         # 计算香农-威纳指数（H）
         H = -1*sum(dir_classes_percentage_Nzero * np.log(dir_classes_percentage_Nzero))
@@ -122,7 +122,7 @@ if __name__ == "__main__":
         stat_dict = {'Names':frcnn.class_names, 'Count':list(dir_classes_nums), 'Percentage':list(dir_classes_percentage*100)}
         df = pd.DataFrame(stat_dict)
         print(df)
-        df.to_excel('D:/PMID2019/dir_save_path/output.xlsx')
+        df.to_excel('')
 
     else:
         raise AssertionError("请指定正确的模式: 'predict', 'video', 'fps', 'dir_predict' or 'statistic'.")
