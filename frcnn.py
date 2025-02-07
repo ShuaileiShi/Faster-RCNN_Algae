@@ -20,7 +20,7 @@ class FRCNN(object):
         # 训练好后logs文件夹下存在多个权值文件，选择验证集损失较低的即可。
         # 验证集损失较低不代表mAP较高，仅代表该权值在验证集上泛化性能较好。
         # 如果出现shape不匹配，同时要注意训练时的model_path和classes_path参数的修改
-        "model_path"    : 'logs\ep100-loss0.261-val_loss0.300.pth',  #指向logs文件夹下的训练权值文件
+        "model_path"    : 'logs/final_weights.pth',  #指向logs文件夹下的训练权值文件
         "classes_path"  : 'data_model/Algae2024.txt',  #指向data_model下的类别txt
         "backbone" : "resnet50",  #主干特征提取网络
         "confidence" : 0.5,  #预测框信度
@@ -73,7 +73,7 @@ class FRCNN(object):
 
 
     # 检测图片
-    def detect_image(self, image, crop = False, count = False):
+    def detect_image(self, image, crop = False, count = False, drawing = True):
         # 计算输入图片的高和宽
         image_shape = np.array(np.shape(image)[0:2])
         # 预resize后的图片短边为600，计算预resize后的图片长边大小
@@ -90,24 +90,15 @@ class FRCNN(object):
             images = torch.from_numpy(image_data)
             if self.cuda:
                 images = images.cuda()
-            # roi_cls_locs  建议框的调整参数
-            # roi_scores    建议框的种类得分
-            # rois          建议框的坐标
-            roi_cls_locs, roi_scores, rois, _ = self.net(images)
+            # roi_cls_locs 建议框的调整参数; roi_scores 建议框的种类得分; rois 建议框的坐标
+            roi_cls_locs, roi_scores, rois, _ = self.net(images)  
             # 利用classifier的预测结果对建议框进行解码，获得预测框
             results = self.bbox_util.forward(roi_cls_locs, roi_scores, rois, image_shape, input_shape, nms_iou = self.nms_iou, confidence = self.confidence)
             # 如果没有检测出物体，返回原图           
             if len(results[0]) <= 0:
                 return image
-                
-            top_label   = np.array(results[0][:, 5], dtype = 'int32')
-            top_conf    = results[0][:, 4]
-            top_boxes   = results[0][:, :4]
-        
-        # 设置字体与边框厚度
-        font      = ImageFont.truetype(font='model_data/simhei.ttf', size=np.floor(3e-2 * image.size[1] + 0.5).astype('int32'))
-        thickness = int(max((image.size[0] + image.size[1]) // np.mean(input_shape), 1))
-        # 计数
+
+        # 是否进行计数
         if count:
             print("top_label:", top_label)
             classes_nums = np.zeros([self.num_classes])
@@ -117,7 +108,8 @@ class FRCNN(object):
                     print(self.class_names[i], " : ", num)
                 classes_nums[i] = num
             print("classes_nums:", classes_nums)
-        # 是否进行目标的裁剪
+
+        # 是否进行目标裁剪
         if crop:
             for i, c in list(enumerate(top_label)):
                 top, left, bottom, right = top_boxes[i]
@@ -132,135 +124,78 @@ class FRCNN(object):
                 crop_image = image.crop([left, top, right, bottom])
                 crop_image.save(os.path.join(dir_save_path, "crop_" + str(i) + ".png"), quality=95, subsampling=0)
                 print("save crop_" + str(i) + ".png to " + dir_save_path)
-        # 图像绘制
-        for i, c in enumerate(top_label):
-            predicted_class = self.class_names[int(c)]
-            box   = top_boxes[i]
-            score = top_conf[i]
+                
+        # 是否进行图像绘制
+        if drawing:
+            top_label   = np.array(results[0][:, 5], dtype = 'int32')
+            top_conf    = results[0][:, 4]
+            top_boxes   = results[0][:, :4]
+        
+            # 设置字体与边框厚度
+            font      = ImageFont.truetype(font='model_data/simhei.ttf', size=np.floor(3e-2 * image.size[1] + 0.5).astype('int32'))
+            thickness = int(max((image.size[0] + image.size[1]) // np.mean(input_shape), 1))
+            for i, c in enumerate(top_label):
+                predicted_class = self.class_names[int(c)]
+                box   = top_boxes[i]
+                score = top_conf[i]
 
-            top, left, bottom, right = box
+                top, left, bottom, right = box
+                top    = max(0, np.floor(top).astype('int32'))
+                left   = max(0, np.floor(left).astype('int32'))
+                bottom = min(image.size[1], np.floor(bottom).astype('int32'))
+                right  = min(image.size[0], np.floor(right).astype('int32'))
 
-            top    = max(0, np.floor(top).astype('int32'))
-            left   = max(0, np.floor(left).astype('int32'))
-            bottom = min(image.size[1], np.floor(bottom).astype('int32'))
-            right  = min(image.size[0], np.floor(right).astype('int32'))
+                label = '{} {:.2f}'.format(predicted_class, score)
+                draw = ImageDraw.Draw(image)
+                label_size = draw.textbbox((10, 10), label, font=font) # 如果使用的是python3.8及对应版本的pillow，这里的textbbox方法需要更改为textsize方法
+                label_width = label_size[2] - label_size[0]
+                label_height = label_size[3] - label_size[1]
 
-            label = '{} {:.2f}'.format(predicted_class, score)
-            draw = ImageDraw.Draw(image)
-            label_size = draw.textbbox((10, 10), label, font=font) # 如果使用的是python3.8及对应版本的pillow，这里的textbbox方法需要更改为textsize方法
-            label_width = label_size[2] - label_size[0]
-            label_height = label_size[3] - label_size[1]
+                text_origin = np.array([left, top - label_height]) if top - label_height >= 0 else np.array([left, top + 1])
 
-            text_origin = np.array([left, top - label_height]) if top - label_height >= 0 else np.array([left, top + 1])
-
-            # 绘制矩形框
-            for i in range(thickness):
-                draw.rectangle([left + i, top + i, right - i, bottom - i], outline=self.colors[c])
-            # 绘制标签背景框
-            draw.rectangle([tuple(text_origin), tuple(text_origin + [label_width, label_height])], fill=self.colors[c])
-            # 绘制标签文字
-            draw.text(tuple(text_origin), label, fill=(0, 0, 0), font=font)
-            del draw
-
+                # 绘制矩形框
+                for i in range(thickness):
+                    draw.rectangle([left + i, top + i, right - i, bottom - i], outline=self.colors[c])
+                # 绘制标签背景框
+                draw.rectangle([tuple(text_origin), tuple(text_origin + [label_width, label_height])], fill=self.colors[c])
+                # 绘制标签文字
+                draw.text(tuple(text_origin), label, fill=(0, 0, 0), font=font)
+                del draw
+        
         return image
-    
-    def statistic(self, dir_origin_path, dir_save_path, crop = False, count = True):
+
+
+    def statistic(self, select_path):
         dir_classes_nums = np.zeros([self.num_classes], dtype = int)
         
-        img_names = os.listdir(dir_origin_path)
+        img_names = os.listdir(select_path)
         for img_name in tqdm(img_names):
             if img_name.lower().endswith(('.bmp', '.dib', '.png', '.jpg', '.jpeg', '.pbm', '.pgm', '.ppm', '.tif', '.tiff')):
-                image_path  = os.path.join(dir_origin_path, img_name)
-                image       = Image.open(image_path)
-                # 计算输入图片的高和宽
+                image_path = os.path.join(select_path, img_name)
+                image = Image.open(image_path)
                 image_shape = np.array(np.shape(image)[0:2])
-                # 预resize后的图片短边为600，计算预resize后的图片长边大小
                 input_shape = get_new_img_size(image_shape[0], image_shape[1])
-                # 将所有其它类型的图像转换成RGB图像
                 image       = cvtColor(image)
-                # 给原图像进行resize
                 image_data  = resize_image(image, [input_shape[1], input_shape[0]])
-                # 添加batch_size维度
                 image_data  = np.expand_dims(np.transpose(preprocess_input(np.array(image_data, dtype='float32')), (2, 0, 1)), 0)
 
-                # 将图片转换成tensor形式
                 with torch.no_grad():
                     images = torch.from_numpy(image_data)
                     if self.cuda:
                         images = images.cuda()
-                    # roi_cls_locs  建议框的调整参数
-                    # roi_scores    建议框的种类得分
-                    # rois          建议框的坐标
-                    roi_cls_locs, roi_scores, rois, _ = self.net(images)
+                    # roi_cls_locs 建议框的调整参数; roi_scores 建议框的种类得分; rois 建议框的坐标
+                    roi_cls_locs, roi_scores, rois, _ = self.net(images)  
                     # 利用classifier的预测结果对建议框进行解码，获得预测框
                     results = self.bbox_util.forward(roi_cls_locs, roi_scores, rois, image_shape, input_shape, nms_iou = self.nms_iou, confidence = self.confidence)
                     # 如果没有检测出物体，返回原图           
                     if len(results[0]) <= 0:
-                        continue
-                        
+                        return image
                     top_label   = np.array(results[0][:, 5], dtype = 'int32')
-                    top_conf    = results[0][:, 4]
-                    top_boxes   = results[0][:, :4]
-            
-                # 设置字体与边框厚度
-                font      = ImageFont.truetype(font='model_data/simhei.ttf', size=np.floor(3e-2 * image.size[1] + 0.5).astype('int32'))
-                thickness = int(max((image.size[0] + image.size[1]) // np.mean(input_shape), 1))
 
-                # 计数
-                if count:
-                    for i in range(self.num_classes):
-                        num = np.sum(top_label == i)
-                        dir_classes_nums[i] += num
-                
-                # 是否进行目标的裁剪
-                if crop:
-                    for i, c in list(enumerate(top_label)):
-                        top, left, bottom, right = top_boxes[i]
-                        top    = max(0, np.floor(top).astype('int32'))
-                        left   = max(0, np.floor(left).astype('int32'))
-                        bottom = min(image.size[1], np.floor(bottom).astype('int32'))
-                        right  = min(image.size[0], np.floor(right).astype('int32'))
-                        
-                        dir_save_path = "img_crop"
-                        if not os.path.exists(dir_save_path):
-                            os.makedirs(dir_save_path)
-                        crop_image = image.crop([left, top, right, bottom])
-                        crop_image.save(os.path.join(dir_save_path, "crop_" + str(i) + ".png"), quality=95, subsampling=0)
-                        print("save crop_" + str(i) + ".png to " + dir_save_path)
-
-                # 图像绘制
-                for i, c in enumerate(top_label):
-                    predicted_class = self.class_names[int(c)]
-                    box   = top_boxes[i]
-                    score = top_conf[i]
-
-                    top, left, bottom, right = box
-
-                    top    = max(0, np.floor(top).astype('int32'))
-                    left   = max(0, np.floor(left).astype('int32'))
-                    bottom = min(image.size[1], np.floor(bottom).astype('int32'))
-                    right  = min(image.size[0], np.floor(right).astype('int32'))
-
-                    label = '{} {:.2f}'.format(predicted_class, score)
-                    draw = ImageDraw.Draw(image)
-                    label_size = draw.textbbox((10, 10), label, font=font) # 如果使用的是python3.8及对应版本的pillow，这里的textbbox方法需要更改为textsize方法
-                    label_width = label_size[2] - label_size[0]
-                    label_height = label_size[3] - label_size[1]
-
-                    text_origin = np.array([left, top - label_height]) if top - label_height >= 0 else np.array([left, top + 1])
-
-                    # 绘制矩形框
-                    for i in range(thickness):
-                        draw.rectangle([left + i, top + i, right - i, bottom - i], outline=self.colors[c])
-                    # 绘制标签背景框
-                    draw.rectangle([tuple(text_origin), tuple(text_origin + [label_width, label_height])], fill=self.colors[c])
-                    # 绘制标签文字
-                    draw.text(tuple(text_origin), label, fill=(0, 0, 0), font=font)
-                    del draw
-
-                    if not os.path.exists(dir_save_path):
-                        os.makedirs(dir_save_path)
-                    image.save(os.path.join(dir_save_path, img_name.replace(".jpg", ".png")), quality=95, subsampling=0)
+                # 统计分析计数
+                for i in range(self.num_classes):
+                    num = np.sum(top_label == i)
+                    dir_classes_nums[i] += num
 
         return dir_classes_nums
 
