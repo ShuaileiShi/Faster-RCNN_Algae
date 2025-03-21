@@ -16,25 +16,29 @@ from utils.utils_fit import fit_one_epoch
 
 if __name__ == "__main__":
 
-    # 迁移训练 ———— model_path = '预训练权重路径'; 预训练权重可从xothers\README中获取
+    # 迁移训练 ———— model_path = '预训练权重路径'; 预训练权重为data_model/voc_weights_resnet.pth
     # 继续训练 ———— model_path = 'logs文件夹下相应权值文件路径'; 修改下方的 冻结阶段 或者 解冻阶段 的参数，来保证模型epoch的连续性
     # 主干训练 ———— model_path = ''; 下方的 pretrain = True
     # 从零训练 ———— model_path = ''; 下方的pretrain = Fasle，Freeze_Train = Fasle
-    model_path      = 'logs\last_epoch_weights.pth'
+    # model_path = 'logs/train_2025_03_08weights.pth'
+    model_path = 'logs/train_2025_02_23weights.pth'
 
-    classes_path    = 'data_model/Algae2024.txt'  #指向data_model下的分类目标txt
-    train_annotation_path   = 'data_image/Algae2024_train.txt'  #指向image_data下的由annotation生成的文件训练txt
-    val_annotation_path     = 'data_image/Algae2024_val.txt'  #指向image_data下的由annotation生成的文件检测txt
-    backbone        = "resnet50"  #主干特征提取网络
+    #classes_path = 'data_model/BJFUHJZooPlankton.txt'  
+    classes_path = 'data_model/Algae2024.txt'  # 指向data_model下的分类目标txt
+    # train_annotation_path = 'data_image/test_train.txt'  
+    train_annotation_path = 'data_image/Algae2024_train.txt'  # 指向image_data下的由annotation生成的文件训练txt
+    # val_annotation_path = 'data_image/test_val.txt'  
+    val_annotation_path = 'data_image/Algae2024_val.txt'  # 指向image_data下的由annotation生成的文件检测txt
+    backbone = "resnet50"  # 主干特征提取网络
 
-    Cuda         = True  #是否使用Cuda
-    seed         = 11  #用于固定随机种子，使得每次独立训练都可以获得一样的结果
-    train_gpu    = [0,]  #训练用到的GPU，默认为第一张卡、双卡为[0, 1]、三卡为[0, 1, 2];在使用多GPU时，每个卡上的batch为总batch除以卡的数量
-    fp16         = True  #是否使用混合精度训练
-    input_shape  = [600, 600]  #输入的shape大小
-    anchors_size = [4, 16, 32]  #用于设定先验框的大小，每个数对应3个先验框。详见anchors.py
+    Cuda         = True  # 是否使用Cuda
+    seed         = 11  # 用于固定随机种子，使得每次独立训练都可以获得一样的结果
+    train_gpu    = [0,]  # 训练用到的GPU，默认为第一张卡、双卡为[0, 1]、三卡为[0, 1, 2];在使用多GPU时，每个卡上的batch为总batch除以卡的数量
+    fp16         = True  # 是否使用混合精度训练
+    input_shape  = [600, 600]  # 输入的shape大小
+    anchors_size = [4, 16, 32]  # 用于设定先验框的大小，每个数对应3个先验框。详见anchors.py
 
-    #训练模式参数
+    # 训练模式参数
     pretrained   = False  # 是否使用主干网络的预训练权重，此处使用的是主干的权重，因此是在模型构建的时候进行加载的。
     Freeze_Train = True   # 是否进行冻结训练，默认先冻结训练后解冻训练。如果设置Freeze_Train=False，建议使用优化器为sgd
     # 如果设置了model_path，则主干的权值无需加载，pretrained的值无意义。
@@ -45,7 +49,7 @@ if __name__ == "__main__":
     # Init_Epoch         模型当前开始的训练世代，其值可以大于Freeze_Epoch，如此则会跳过冻结阶段，直接从设置的世代开始，并调整对应的学习率。
     # Freeze_Epoch       模型冻结训练的Freeze_Epoch
     # Freeze_batch_size  模型冻结训练的batch_size
-    Init_Epoch          = 99  # 继续训练时可使用
+    Init_Epoch          = 0  # 继续训练时可使用
     Freeze_Epoch        = 50  # 根据需求改
     Freeze_batch_size   = 8
 
@@ -56,17 +60,17 @@ if __name__ == "__main__":
     Unfreeze_batch_size = 4
     
 
-    optimizer_type = "adam"  #使用到的优化器种类，可选的有adam、sgd
-    momentum       = 0.9  #优化器内部使用到的momentum参数
-    weight_decay   = 0  #权值衰减，可防止过拟合。当使用adam时建议设置为0
-    Init_lr = 1e-4  #模型的最大学习率。当使用Adam优化器时建议=1e-4，当使用SGD优化器时建议=1e-2
-    Min_lr  = Init_lr * 0.01  #模型的最小学习率。建议设置为最大学习率的0.01
-    lr_decay_type = 'cos'  #使用到的学习率下降方式，可选的有step、cos
-    save_period = 5  #每隔若干世代保存一次权值
-    eval_flag  = True  #是否在训练时进行评估，评估对象为验证集。此处获得的mAP会与get_map.py获得的会有所不同。原因：此处获得的mAP为验证集的mAP；此处设置评估参数较为保守，目的是加快评估速度
-    eval_period = 5  #每隔若干世代评估一次，频繁评估会增加训练耗时
-    num_workers = 4  #用于设置是否使用多线程读取数据，1代表关闭多线程。开启后会加快数据读取速度，但是会占用更多内存
-    save_dir = 'logs'  #权值与日志文件保存的文件夹
+    optimizer_type = "adam"  # 使用到的优化器种类，可选的有adam、sgd
+    momentum       = 0.9  # 优化器内部使用到的momentum参数
+    weight_decay   = 0  # 权值衰减，可防止过拟合。当使用adam时建议设置为0
+    Init_lr        = 1e-4  # 模型的最大学习率。当使用Adam优化器时建议=1e-4，当使用SGD优化器时建议=1e-2
+    Min_lr         = Init_lr * 0.01  # 模型的最小学习率。建议设置为最大学习率的0.01
+    lr_decay_type  = 'cos'  # 使用到的学习率下降方式，可选的有step、cos
+    save_period    = 5  # 每隔若干世代保存一次权值
+    eval_flag      = True  # 是否在训练时进行评估，评估对象为验证集。此处获得的mAP会与get_map.py获得的会有所不同。原因：此处获得的mAP为验证集的mAP；此处设置评估参数较为保守，目的是加快评估速度
+    eval_period    = 5  # 每隔若干世代评估一次，频繁评估会增加训练耗时
+    num_workers    = 4  # 用于设置是否使用多线程读取数据，1代表关闭多线程。开启后会加快数据读取速度，但是会占用更多内存
+    save_dir       = 'logs'  # 权值与日志文件保存的文件夹
 
 
     # 获取classes和anchor
@@ -271,7 +275,7 @@ if __name__ == "__main__":
         Init_Epoch = 0，Freeze_Epoch = 50，UnFreeze_Epoch = 100，Freeze_Train = True，optimizer_type = 'adam'，Init_lr = 1e-4。（冻结）
         Init_Epoch = 0，UnFreeze_Epoch = 100，Freeze_Train = False，optimizer_type = 'adam'，Init_lr = 1e-4。（不冻结）
     SGD：
-            Init_Epoch = 0，Freeze_Epoch = 50，UnFreeze_Epoch = 150，Freeze_Train = True，optimizer_type = 'sgd'，Init_lr = 1e-2。（冻结）
+        Init_Epoch = 0，Freeze_Epoch = 50，UnFreeze_Epoch = 150，Freeze_Train = True，optimizer_type = 'sgd'，Init_lr = 1e-2。（冻结）
         Init_Epoch = 0，UnFreeze_Epoch = 150，Freeze_Train = False，optimizer_type = 'sgd'，Init_lr = 1e-2。（不冻结）
     其中：由于从主干网络的预训练权重开始训练，主干的权值不一定适合目标检测，需要更多的训练跳出局部最优解。
             UnFreeze_Epoch可以在150-300之间调整，YOLOV5和YOLOX均推荐使用300。

@@ -1,9 +1,7 @@
 import os
 import random
 import xml.etree.ElementTree as ET
-
 import numpy as np
-
 from utils.utils import get_classes
 
 
@@ -15,17 +13,18 @@ annotation_mode = 0
 
 # 必须要修改，用于生成_train.txt、_val.txt的目标信息，与训练和预测所用的classes_path一致
 # 仅在annotation_mode为0和2的时候有效
+# classes_path = 'data_model/BJFUHJZooPlankton.txt'
 classes_path = 'data_model/Algae2024.txt'
 
 # trainval_percent用于指定(训练集+验证集)与测试集的比例
 # train_percent用于指定(训练集+验证集)中训练集与验证集的比例
 # 仅在annotation_mode为0和1的时候有效
-trainval_percent = 0.9
-train_percent    = 0.9
+trainval_percent = 1
+train_percent    = 0.01
 
 # 指向VOC数据集所在的文件夹
-VOCdevkit_path = 'VOCdevkit/Algae2024'  # 使用不同VOC数据集请修改此处路径
-VOCdevkit_sets = [('Algae2024', 'train'), ('Algae2024', 'val')]  # 使用不同VOC数据集请修改此处编号
+VOCdevkit_path = 'VOCdevkit/test'  # 使用不同VOC数据集请修改此处路径
+VOCdevkit_sets = [('test', 'train'), ('test', 'val')]  # 使用不同VOC数据集请修改此处编号
 classes, _     = get_classes(classes_path)
 
 
@@ -58,19 +57,19 @@ if __name__ == "__main__":
 
     if annotation_mode == 0 or annotation_mode == 1:
         xmlfilepath     = os.path.join(VOCdevkit_path, 'Annotations')
-        saveBasePath    = os.path.join(VOCdevkit_path, 'Sets/Main')
+        saveBasePath    = os.path.join(VOCdevkit_path, 'Sets')
         temp_xml        = os.listdir(xmlfilepath)
         total_xml       = []
         for xml in temp_xml:
             if xml.endswith(".xml"):
                 total_xml.append(xml)
 
-        num     = len(total_xml)  
-        list    = range(num)  
-        tv      = int(num*trainval_percent)  
-        tr      = int(tv*train_percent)  
-        trainval= random.sample(list,tv)  
-        train   = random.sample(trainval,tr)  
+        num      = len(total_xml)  
+        list     = range(num)  
+        tv       = int(num*trainval_percent)  
+        tr       = int(tv*train_percent)  
+        trainval = random.sample(list,tv)  
+        train    = random.sample(trainval,tr)  
         
         print("train and val size",tv)
         print("train size",tr)
@@ -100,7 +99,7 @@ if __name__ == "__main__":
     if annotation_mode == 0 or annotation_mode == 2:
         type_index = 0
         for ref, image_set in VOCdevkit_sets:
-            image_ids = open(os.path.join(VOCdevkit_path, 'Sets/Main/%s.txt'%(image_set)), encoding='utf-8').read().strip().split()
+            image_ids = open(os.path.join(VOCdevkit_path, 'Sets/%s.txt'%(image_set)), encoding='utf-8').read().strip().split()
             list_file = open('%s_%s.txt'%(ref, image_set), 'w', encoding='utf-8')
             for image_id in image_ids:
                 list_file.write('%s/Images/%s.jpg'%(os.path.abspath(VOCdevkit_path), image_id))

@@ -74,7 +74,7 @@ def open_image_window():
     predict_button.place(x=375, y=550)
 
     return_button = tk.Button(new_window,text="返回",font=("宋体", 16),command=return_to_root)
-    return_button.place(x=10,y=10)
+    return_button.place(x=725,y=10)
     
     # 绑定子窗口关闭事件
     new_window.protocol("WM_DELETE_WINDOW", return_to_root)
@@ -123,7 +123,7 @@ def open_folder_window():
                         progress_bar["value"] = i + 1  # 进度增加
                         new_window.update_idletasks()  # 更新 GUI
                 
-                messagebox.showinfo("预测完成！", "预测结果已保存于存储文件夹中。")
+                messagebox.showinfo("预测完成！", f"预测结果已成功保存至{save_path}中。")
                 progress_bar.destroy()  # 关闭进度条
                 predict_button.config(state=tk.NORMAL)  # 重新启用预测按钮
 
@@ -156,7 +156,7 @@ def open_folder_window():
     predict_button.place(x=375, y=300)
 
     return_button = tk.Button(new_window,text="返回",font=("宋体", 16),command=return_to_root)
-    return_button.place(x=10,y=10)
+    return_button.place(x=725,y=10)
 
     # 绑定子窗口关闭事件
     new_window.protocol("WM_DELETE_WINDOW", return_to_root)
@@ -215,7 +215,8 @@ def open_statistics_window():
                     '百分比': list(dir_classes_percentage * 100),
                 }
                 df_species = pandas.DataFrame(species_dict)  # 创建 DataFrame 来保存物种信息
-                
+                df_species = df_species[~((df_species['个数'] == 0) | (df_species['百分比'] == 0))]
+
                 # 创建生物多样性指数字典
                 community_dict = {
                     '物种丰度 (S)': [S],
@@ -227,7 +228,7 @@ def open_statistics_window():
                 
                 # 将群落多样性指标添加到物种数据之后（合并成一个Excel文件的两个sheet）
                 output_xlsx_path = os.path.join(save_path, 'output.xlsx')
-                with pandas.ExcelWriter(output_xlsx_path) as writer:
+                with pandas.ExcelWriter(output_xlsx_path, mode='w') as writer:
                     df_species.to_excel(writer, sheet_name='物种数据', index=False)
                     df_community.to_excel(writer, sheet_name='生物多样性指数', index=False)
 
@@ -264,7 +265,7 @@ def open_statistics_window():
     predict_button.place(x=375, y=300)
 
     return_button = tk.Button(new_window,text="返回",font=("宋体", 16),command=return_to_root)
-    return_button.place(x=10,y=10)
+    return_button.place(x=725,y=10)
 
     # 绑定子窗口关闭事件
     new_window.protocol("WM_DELETE_WINDOW", return_to_root)
